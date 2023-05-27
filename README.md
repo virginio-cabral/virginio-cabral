@@ -2,7 +2,7 @@
 
 Meu nome é Ramon Virgínio e sou estudante de Desenvolvimento de Software na Cubos Academy. Criei esse repositório para organizar os exercícios do curso e meus projetos pessoais. Estudo as duas stacks, apesar de ter uma inclinação para o front-end (vamos ver se essa inclinação irá permanecer).
 
-Antes estudante de Letras - Literaturas, migrar de carreira saindo das ciências humanas para exatas se provou um desafio edificante e me fez perceber que existem muito mais brechas para uma integração do que a separação dentre os dois campos.
+Antes estudante de Letras - Literaturas, migrar de carreira saindo das ciências humanas para exatas se provou um desafio edificante e me fez perceber que existem muito mais brechas para uma integração do que a separação entre os dois campos.
 
 Espero me engajar na comunidade, compartilhando não só códigos, mas principalmente ideias!
 
