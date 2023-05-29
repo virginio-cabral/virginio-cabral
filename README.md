@@ -4,7 +4,7 @@ Meu nome é Ramon Virgínio e sou estudante de Desenvolvimento de Software na Cu
 
 Antes estudante de Letras - Literaturas, migrar de carreira saindo das ciências humanas para exatas se provou um desafio edificante e me fez perceber que existem muito mais brechas para uma integração do que a separação entre os dois campos.
 
-Espero me engajar na comunidade, compartilhando não só códigos, mas principalmente ideias!
+Espero me engajar na comunidade compartilhando não só códigos, mas principalmente ideias!
 
 ## Hard Skills:
 
